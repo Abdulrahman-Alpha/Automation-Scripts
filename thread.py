@@ -26,3 +26,4 @@ print("\nExit")
 # Then we override the __init__ function of the thread class.
 # Then we override the run method to define the behavior of the thread.
 # The start() method starts a Python thread. 
+##"This Script Created by Abdulrahma Alpha."
